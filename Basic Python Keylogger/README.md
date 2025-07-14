@@ -1,4 +1,4 @@
-This project is intended for educational purposes only, to improve not only my coding skills but also see how a common threat like keylogging operates. Unauthorized use of keyloggers is illegal and unethical. Always get explicit permission before running this software on any system.
+This keylogger is intended for educational purposes only, to improve not only my coding skills but also see how a common threat like keylogging operates. Unauthorized use of keyloggers is illegal and unethical. Always get explicit permission before running this software on any system.
 
 This is a basic Python keylogger that captures keystrokes and logs them to a file. It uses the pynput library to monitor keyboard input in real-time. and then with open to append those keyboard inputs into a txt file.
 
